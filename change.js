@@ -1,1 +1,2 @@
-consol.log("change2");
+consol.log("change1");
+consol.log("Updated");
